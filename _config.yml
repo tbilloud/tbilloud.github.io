@@ -21,9 +21,7 @@ author: Thomas Billoud
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Publications: "https://scholar.google.com/citations?user=6hNPa2kAAAAJ&hl=en&oi=ao"
   Author's home: "https://www.uniklinik-freiburg.de/mr-en/team/billoud.html"
 
 ################
